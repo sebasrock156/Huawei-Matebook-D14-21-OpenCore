@@ -53,16 +53,16 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 Hardware | Model
 --- |:--:
-![processor](https://i.imgur.com/hWNvzxy.png) | Intel Core i5 11G1
-![igpu](https://i.imgur.com/ywW6onH.png)| Intel Xe Graphics (Not supported)
+![processor](https://i.imgur.com/hWNvzxy.png) | Intel Core i5 1135G7
+![igpu](https://i.imgur.com/ywW6onH.png)| Intel Xe Graphics Tiger Lake UP3-GT2 1GB VRAM @1,4GHz (Not supported)
 ![audio](https://i.imgur.com/SCKuD0b.png) | Conexant CX20752
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available, try to replace for any MB with some Radeon dGPU)
-![wlan](https://i.imgur.com/dUwPhAC.png) | Realtek RTL8821AE+Bluetooth 4.0 (Not supported)
+![wlan](https://i.imgur.com/9eDLwo9.png) | Intel Wi-Fi6 6 AX201 (Not supported)
 Ethernet | Realtek RTL8111
 ![ddr4](https://i.imgur.com/g3gLTem.png) | Samsung 8GB CL22@2133Mhz (in-build) + Crucial 8GB CL19@2400Mhz (external)
-![ssd](https://i.imgur.com/Jixm0UG.png) | Crucial BX500 SSD 480GB (TLC SMI2258XT Controller)
+![ssd](https://i.imgur.com/Jixm0UG.png) | Phison 311CD0 NVMe SSD 512GB (TLC PS5013-E13 Controller)
 ---
-
+Goodix Fingerprint, BOE Screen 1080p
 <details>
  
 **Now, some minimum hardware recommendations**:
