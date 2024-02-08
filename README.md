@@ -13,7 +13,6 @@ Hardware | Model
 ![lpddr4](https://i.imgur.com/1VtslzT.png) | Samsung 4GB(x2) @2667Mhz (in-build)
 ![nvme](https://i.imgur.com/J9Q96yY.png) | Phison 311CD0 NVMe 512GB (TLC PS5013 Controller)
 ---
-Goodix Fingerprint(Not works), BOE Screen 1080p(works without HW Acceleration), ov9734 Camera (maybe fix with beta arg), Everest ES8316 audio(Not supported but, wanna try patch it)
 
 ### Works:
 ---
@@ -66,6 +65,8 @@ Goodix Fingerprint(Not works), BOE Screen 1080p(works without HW Acceleration), 
 - HDMI ❌ (Doesn't work without 3D Acceleration)
 
 - Screen Backlit ❌ (Doesn't work without 3D Acceleration)
+
+- Fingerprint Scanner ❌ (Don't exist some Goodix kext for MacOS)
 
 </details>
 
