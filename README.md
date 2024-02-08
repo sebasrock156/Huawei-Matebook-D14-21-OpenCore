@@ -19,6 +19,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 ---
 
 
+
 **More info of MacOS Monterey:**
 
 [![MacOS Monterey](https://i.imgur.com/hVAkcmx.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Monterey)
@@ -29,6 +30,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 ---
 
+
 **More info of MacOS Ventura:**
 
 [![MacOS Ventura](https://i.imgur.com/7qS5AMA.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Ventura)
@@ -38,6 +40,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 **Notes for future:** If work in Monterey, might be works on Ventura.. 
 
 ---
+
 
 **More info of MacOS Sonoma:**
 
