@@ -57,7 +57,7 @@ Hardware | Model
 ![igpu](https://i.imgur.com/ywW6onH.png)| Intel Xe Graphics Tiger Lake UP3-GT2 1GB VRAM @1,4GHz (Not supported)
 ![audio](https://i.imgur.com/SCKuD0b.png) | Conexant CX20752
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available, try to replace for any MB with some Radeon dGPU)
-![wlan](https://i.imgur.com/9eDLwo9.png) | Intel Wi-Fi6 6 AX201 (Not supported)
+![wlan](https://i.imgur.com/9eDLwo9.png) | Intel Wi-Fi (cat)6 AX201 (Not supported)
 Ethernet | Realtek RTL8111
 ![ddr4](https://i.imgur.com/g3gLTem.png) | Samsung 8GB CL22@2133Mhz (in-build) + Crucial 8GB CL19@2400Mhz (external)
 ![ssd](https://i.imgur.com/Jixm0UG.png) | Phison 311CD0 NVMe SSD 512GB (TLC PS5013-E13 Controller)
