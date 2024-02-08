@@ -55,29 +55,12 @@ Hardware | Model
 --- |:--:
 ![processor](https://i.imgur.com/hWNvzxy.png) | Intel Core i5 1135G7
 ![igpu](https://i.imgur.com/ywW6onH.png)| Intel Xe Graphics Tiger Lake UP3-GT2 1GB VRAM @1,4GHz (Not supported)
-![audio](https://i.imgur.com/SCKuD0b.png) | Conexant CX20752
-![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available, try to replace for any MB with some Radeon dGPU)
-![wlan](https://i.imgur.com/9eDLwo9.png) | Intel Wi-Fi/Bluetooth (cat)6 AX201 (Not supported)
-![ddr4](https://i.imgur.com/g3gLTem.png) | Samsung 8GB CL22@2133Mhz (in-build) + Crucial 8GB CL19@2400Mhz (external)
+![audio](https://i.imgur.com/SCKuD0b.png) | TigerLake Smart Sound I2C/Everest ES8316(?) (Not supported)
+![wlan](https://i.imgur.com/9eDLwo9.png) | Intel Wi-Fi/Bluetooth (cat)6 AX201
+![ddr4](https://i.imgur.com/g3gLTem.png) | Samsung 4GB(x2) @2667Mhz (in-build)
 ![ssd](https://i.imgur.com/Jixm0UG.png) | Phison 311CD0 NVMe SSD 512GB (TLC PS5013-E13 Controller)
 ---
-Goodix Fingerprint, BOE Screen 1080p, ov9734 Camera
-<details>
- 
-**Now, some minimum hardware recommendations**:
-
----
-
-Hardware | Model
---- |:--:
-RAM | Any Samsung, Crucial or Kingston DDR4 8GB (in-unique slot).
-Audio Card | Any Realtek and some Conexant Audio Cards.
-WLAN Card | Any Intel network card, some Broadcom network cards, and few Qualcomm/Atheros network cards).
-SATA Drive	| Any Solid State Drive (SSD) with 240GB or more of storage.
-IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 500GB/1000GB of storage.
----
- 
-</details>
+Goodix Fingerprint(Not works), BOE Screen 1080p(works without HW Acceleration), ov9734 Camera (maybe fix with beta arg), Everest ES8316 audio(Not supported but, wanna try patch it)
 
 
 ## Misc:
