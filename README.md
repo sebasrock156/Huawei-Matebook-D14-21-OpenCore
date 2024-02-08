@@ -30,7 +30,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 **More info of MacOS Ventura:**
 
-//[![MacOS Ventura](https://i.imgur.com/7qS5AMA.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Ventura)
+[![MacOS Ventura](https://i.imgur.com/7qS5AMA.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Ventura)
 
 **Status:** ❌ In-process 💻
 
