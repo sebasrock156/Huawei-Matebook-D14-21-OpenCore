@@ -58,7 +58,7 @@ Hardware | Model
 ![audio](https://i.imgur.com/SCKuD0b.png) | TigerLake Smart Sound I2C/Everest ES8316(?) (Not supported)
 ![wlan](https://i.imgur.com/9eDLwo9.png) | Intel Wi-Fi/Bluetooth (cat)6 AX201
 ![ddr4](https://i.imgur.com/g3gLTem.png) | Samsung 4GB(x2) @2667Mhz (in-build)
-![ssd](https://i.imgur.com/Jixm0UG.png) | Phison 311CD0 NVMe SSD 512GB (TLC PS5013-E13 Controller)
+![ssd](https://i.imgur.com/Jixm0UG.png) | Phison PS5013 311CD0 NVMe 512GB (TLC PS5013-E13 Controller)
 ---
 Goodix Fingerprint(Not works), BOE Screen 1080p(works without HW Acceleration), ov9734 Camera (maybe fix with beta arg), Everest ES8316 audio(Not supported but, wanna try patch it)
 
