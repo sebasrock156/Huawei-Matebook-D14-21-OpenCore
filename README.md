@@ -1,6 +1,6 @@
 # Huawei Matebook D14 (2021) Hackintosh BigSur (11.5.2 - 11.6.3) with OpenCore
 
-![img](https://i.imgur.com/WVazdZa.png)
+![img](https://i.imgur.com/31RLUxv.png)
 
 ---
 
