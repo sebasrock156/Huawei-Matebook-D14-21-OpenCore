@@ -53,8 +53,8 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 Hardware | Model
 --- |:--:
-![processor](https://i.imgur.com/H44zEoW.png) | AMD A10 9620P/A12 9700P/FX 9800P, 4 cores/threads@3,0/3,4/3,6Ghz
-![igpu](https://i.imgur.com/7TZmF2e.png)| Radeon R5/R7 512MB/1GB VRAM@720/758Mhz (Not supported)
+![processor](https://i.imgur.com/hWNvzxy.png) | Intel Core i5 11G1
+![igpu](https://i.imgur.com/ywW6onH.png)| Intel Xe Graphics (Not supported)
 ![audio](https://i.imgur.com/SCKuD0b.png) | Conexant CX20752
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available, try to replace for any MB with some Radeon dGPU)
 ![wlan](https://i.imgur.com/dUwPhAC.png) | Realtek RTL8821AE+Bluetooth 4.0 (Not supported)
