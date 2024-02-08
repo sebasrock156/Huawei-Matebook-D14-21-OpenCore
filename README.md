@@ -8,7 +8,7 @@
 
 This is a "big" project to bring MacOS OSes for these laptops with OpenCore Bootloader, for more information, click on "More info of **MacOS Version** below:
 
-**More info of MacOS Monterey:**
+**More info of MacOS BigSur:**
 
 [![MacOS BigSur](https://i.imgur.com/lhFb24x.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/BigSur)
 
