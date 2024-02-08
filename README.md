@@ -10,7 +10,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 **More info of MacOS BigSur:**
 
-[![MacOS BigSur](https://i.imgur.com/3W3Lp5N.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/BigSur)
+[![MacOS BigSur](https://i.imgur.com/sIfA4dZ.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/BigSur)
 
 **Status:** ✅❌ In-process, for now, doesn't fix some things 💻
 
