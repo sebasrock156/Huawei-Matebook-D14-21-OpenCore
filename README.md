@@ -14,7 +14,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 **Status:** ❌ In-process 💻
 
-**Notes for future:** Trying this work, based on AMD FX 8xxx model. 
+**Notes for future:** Trying this work, using a 2021 Matebook D15's config.pilist. 
 
 ---
 
