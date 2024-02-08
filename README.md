@@ -15,3 +15,57 @@ Hardware | Model
 ---
 Goodix Fingerprint(Not works), BOE Screen 1080p(works without HW Acceleration), ov9734 Camera (maybe fix with beta arg), Everest ES8316 audio(Not supported but, wanna try patch it)
 
+### Works:
+---
+<details>
+
+- Opencore 0.9.4 ✅ 
+
+- Installer Boot ✅ (installation is a less of 25 minutes with NVMe)
+
+- System Boot ✅
+
+- Camera ✅
+
+- Battery charging and stats ✅
+
+- USB Devices ✅ (2.0, 3.0/3.1, but no while installing)
+
+- Screen ✅ (1080x1920)
+
+- Wi-Fi ✅ (altrough is some slow to connect)
+
+ 
+</details>
+
+
+### Partially Works:
+
+---
+<details>
+
+- VoodooPS2Controller ✅❌ (Works, but touchpad is broken).
+
+- Bluetooth ✅❌ (AirportItlwm makes that works partially).
+
+</details>
+
+
+### Not works:
+---
+
+<details>
+ 
+ 
+- Touchpad ❌ (MacOS doesn't recognize the Huawei sensors).
+
+- Audio Card ❌ (Isn't recognized, I will to spoofing)
+
+- Microphone ❌ (Isn't recognized, I will to spoofing)
+
+- HDMI ❌ (Doesn't work without 3D Acceleration)
+
+- Screen Backlit ❌ (Doesn't work without 3D Acceleration)
+
+</details>
+
