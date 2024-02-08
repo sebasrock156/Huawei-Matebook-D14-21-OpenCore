@@ -1,58 +1,7 @@
-# Huawei Matebook D14 (2021) Hackintosh with OpenCore
+# Huawei Matebook D14 (2021) Hackintosh BigSur (11.5.2 - 11.6.3) with OpenCore
 
-![progress](https://img.shields.io/badge/Progress-Under_development-red.svg)
-![installation](https://img.shields.io/badge/installation-working-green.svg)
-[![Acer OSX](https://img.shields.io/badge/AcerHackintosh-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
-[![Asus OSX](https://img.shields.io/badge/AMDOSX-alpha_here-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
+![img](https://i.imgur.com/WVazdZa.png)
 
-
-This is a "big" project to bring MacOS OSes for these laptops with OpenCore Bootloader, for more information, click on "More info of **MacOS Version** below:
-
-**More info of MacOS Monterey:**
-
-[![MacOS BigSur](https://i.imgur.com/lhFb24x.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/BigSur)
-
-**Status:** ❌ In-process (under construction) 💻
-
-**Notes for future:** Trying this work, using a 2021 Matebook D15's config.pilist. 
-
----
-
-
-
-**More info of MacOS Monterey:**
-
-[![MacOS Monterey](https://i.imgur.com/hVAkcmx.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Monterey)
-
-**Status:** ❌ In-process (under construction) 💻
-
-**Notes for future:** Trying this work, using a 2021 Matebook D15's config.pilist. 
-
----
-
-
-**More info of MacOS Ventura:**
-
-[![MacOS Ventura](https://i.imgur.com/7qS5AMA.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Ventura)
-
-**Status:** ❌ In-process (under construction) 💻
-
-**Notes for future:** If work in Monterey, might be works on Ventura.. 
-
----
-
-
-**More info of MacOS Sonoma:**
-
-[![MacOS Sonoma](https://i.imgur.com/enkO7nT.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Sonoma)
-
-**Status:** ❌ Next version to port if works on Ventura 💻
-
-
----
-
-
-**Let's go with my hardware**:
 ---
 
 Hardware | Model
@@ -66,7 +15,3 @@ Hardware | Model
 ---
 Goodix Fingerprint(Not works), BOE Screen 1080p(works without HW Acceleration), ov9734 Camera (maybe fix with beta arg), Everest ES8316 audio(Not supported but, wanna try patch it)
 
-
-## Misc:
-This is based on Olarila RAW MacOS Images.
-In future, I'll try use Opencore for newer versions.
