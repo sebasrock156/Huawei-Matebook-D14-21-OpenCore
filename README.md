@@ -2,7 +2,7 @@
 
 ![img](https://i.imgur.com/31RLUxv.png)
 
-⚠️**WARNING**: For install it, USE an USB 2.0 HUB beside from USB Type-C charging port ⚠️
+⚠️**WARNING**: For install it, USE an USB 2.0 HUB beside from USB Type-C charging port, 3.0 USB ports doesn't work during installation ⚠️
 
 ---
 
