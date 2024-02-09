@@ -12,7 +12,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 [![MacOS BigSur](https://i.imgur.com/lhFb24x.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/BigSur)
 
-**Status:** ❌ In-process (under construction) 💻
+**Status:** 🏗️ In-process (under construction) 💻
 
 **Notes for future:** Trying this work, using a 2021 Matebook D15's config.pilist. 
 
