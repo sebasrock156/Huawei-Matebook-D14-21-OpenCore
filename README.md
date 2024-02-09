@@ -52,7 +52,6 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 ---
 
 
-**Let's go with my hardware**:
 ---
 
 Hardware | Model
