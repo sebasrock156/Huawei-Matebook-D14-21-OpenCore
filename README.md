@@ -37,7 +37,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 **Status:** 🚧 In-process (under construction) 💻
 
-**Notes for future:** If work in Monterey, might be works on Ventura.. 
+**Notes for future:** If work in Monterey, might be works on Ventura... 
 
 ---
 
