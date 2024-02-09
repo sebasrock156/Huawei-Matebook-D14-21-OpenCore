@@ -14,7 +14,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 **Status:** 🏗️ In-process (under construction) 💻
 
-**Notes for future:** Trying this work, using a 2021 Matebook D15's config.pilist. 
+**Notes for future:** Trying this work,for now, I'm running Monterey. 
 
 ---
 
@@ -24,7 +24,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 [![MacOS Monterey](https://i.imgur.com/hVAkcmx.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Monterey)
 
-**Status:** ❌ In-process (under construction) 💻
+**Status:** 👨🏾‍🏭 In-process (under construction) 💻
 
 **Notes for future:** Trying this work, using a 2021 Matebook D15's config.pilist. 
 
@@ -35,7 +35,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 [![MacOS Ventura](https://i.imgur.com/7qS5AMA.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Ventura)
 
-**Status:** ❌ In-process (under construction) 💻
+**Status:** 🚧 In-process (under construction) 💻
 
 **Notes for future:** If work in Monterey, might be works on Ventura.. 
 
@@ -46,7 +46,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 [![MacOS Sonoma](https://i.imgur.com/enkO7nT.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Sonoma)
 
-**Status:** ❌ Next version to port if works on Ventura 💻
+**Status:** 🌑 Next version to port if works on Ventura 💻
 
 
 ---
