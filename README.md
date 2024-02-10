@@ -24,7 +24,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 [![MacOS Monterey](https://i.imgur.com/hVAkcmx.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Monterey)
 
-**Status:** 👨🏾‍🏭 In development (test with [First Release EFI](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/Releases) )💻
+**Status:** 👨🏾‍🏭 In development (test with [First Release EFI](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/releases) )💻
 
 **Notes for future:** Trying this work, using a 2021 Matebook D15's config.pilist. 
 
