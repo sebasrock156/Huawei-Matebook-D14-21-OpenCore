@@ -1,6 +1,6 @@
-# Huawei Matebook D14 (2021) Hackintosh Ventura (13.1-13.4.3) with OpenCore
+# Huawei Matebook D14 (2021) Hackintosh Ventura (13.0-13.4) with OpenCore
 
-![img](https://i.imgur.com/31RLUxv.png)
+![img](https://i.imgur.com/eYKdenu.png)
 
 ⚠️**WARNING**: For install and test it, USE an USB 2.0 HUB beside from USB Type-C charging port, 3.1 USB ports doesn't work ⚠️
 
