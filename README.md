@@ -1,4 +1,4 @@
-# Huawei Matebook D14 (2021) Hackintosh Ventura (13.1-13.4.3) with OpenCore
+# Huawei Matebook D14 (2021) Hackintosh Sonoma with OpenCore
 
 ![img](https://i.imgur.com/31RLUxv.png)
 
