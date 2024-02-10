@@ -1,6 +1,6 @@
 # Huawei Matebook D14 (2021) Hackintosh Monterey (12.2 - 12.6) with OpenCore
 
-![img](https://i.imgur.com/31RLUxv.png)
+![img](https://i.imgur.com/Z7VYhap.png)
 
 ⚠️**WARNING**: For install and test it, USE an USB 2.0 HUB beside from USB Type-C charging port, 3.1 USB ports doesn't work ⚠️
 
