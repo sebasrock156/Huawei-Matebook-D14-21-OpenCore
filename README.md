@@ -1,4 +1,4 @@
-# Huawei Matebook D14 (2021) Hackintosh BigSur (11.5.2 - 11.6.3) with OpenCore
+# Huawei Matebook D14 (2021) Hackintosh Monterey (12.6.5) with OpenCore
 
 ![img](https://i.imgur.com/31RLUxv.png)
 
