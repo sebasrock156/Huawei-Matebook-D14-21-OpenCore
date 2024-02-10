@@ -1,6 +1,6 @@
 # Huawei Matebook D14 (2021) Hackintosh Sonoma with OpenCore
 
-![img](https://i.imgur.com/31RLUxv.png)
+![img](https://i.imgur.com/Eur6M5c.png)
 
 ⚠️**WARNING**: For install and test it, USE an USB 2.0 HUB beside from USB Type-C charging port, 3.1 USB ports doesn't work ⚠️
 
