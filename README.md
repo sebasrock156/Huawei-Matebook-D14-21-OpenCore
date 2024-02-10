@@ -3,7 +3,7 @@
 ![progress](https://img.shields.io/badge/Progress-Under_development-red.svg)
 ![installation](https://img.shields.io/badge/installation-working-green.svg)
 [![Acer OSX](https://img.shields.io/badge/AcerHackintosh-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
-[![Asus OSX](https://img.shields.io/badge/AMDOSX-alpha_here-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
+[![Asus OSX](https://img.shields.io/badge/oldAMDOSX-alpha_here-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
 
 
 This is a "big" project to bring MacOS OSes for these laptops with OpenCore Bootloader, for more information, click on "More info of **MacOS Version** below:
