@@ -45,7 +45,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 [![MacOS Sonoma](https://i.imgur.com/enkO7nT.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Sonoma)
 
-**Status:** 🚧 Tested, but abbandoned for now (EFI boots to OC Menu, but hangs in installation)💻
+**Status:** 🚧 Tested, but abbandoned for now (EFI boots to OC Menu, but WONT BOOT TO INSTALLER)💻
 
 
 ---
