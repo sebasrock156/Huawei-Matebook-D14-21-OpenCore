@@ -20,11 +20,11 @@ Hardware | Model
 ---
 <details>
 
-- Opencore 0.9.3 ✅ 
+- Opencore 0.9.3 ❌ (I will try updating the bootloader for see if works or not).
 
-- Installer Boot ✅ (installation is a less of 20 minutes with NVMe/28 minutes with external SATA SSD)
+- Installer Boot ❌ (installation is a less of 20 minutes with NVMe/28 minutes with external SATA SSD)
 
-- System Boot ✅
+- System Boot ❌
 
 - Camera ✅ (works perfectly)
 
@@ -32,7 +32,7 @@ Hardware | Model
 
 - Screen ✅ (1080x1920)
 
-- Wi-Fi ✅ (altrough is some slow to connect)
+- Wi-Fi ✅❌ (Using heliport)
 
  
 </details>
@@ -47,7 +47,7 @@ Hardware | Model
 - 
 - VoodooPS2Controller ✅❌ (Works, but touchpad is broken, after boot seems work but stops inmediatelly).
 
-- Bluetooth ✅❌ (Partially works, if you're using headphones/airbuds, audio might have some cuts).
+- Bluetooth ❌ (Almost any Intel wireless cards with Bluetooth are broken on Ventura/Sonoma).
 
 </details>
 
