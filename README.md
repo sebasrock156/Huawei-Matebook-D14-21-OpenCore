@@ -61,7 +61,7 @@ Hardware | Model
 ![wlan](https://i.imgur.com/9eDLwo9.png) | Intel 6 Wi-Fi/Bluetooth AX201 (Only Wi-Fi might work)
 ![lpddr4](https://i.imgur.com/1VtslzT.png) | Samsung 8GB(4x2) LPDDR4@2667Mhz (in-build)
 ![nvme](https://i.imgur.com/J9Q96yY.png) | Phison 311CD0 NVMe 512GB (TLC PS5013 Controller)
-Fingerprint | Goodix FP (Not support)
+Fingerprint | Goodix USB FP 5125 (Not support)
 Webcam | OmniVision OV9734 HD Webcam (Keyboard in-build)
 ---
 
