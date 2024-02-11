@@ -33,7 +33,7 @@ Hardware | Model
 
 - Screen ✅ (1080x1920)
 
-- Wi-Fi ❌ (Maybe will fix with HeliPort)
+- Wi-Fi ✅ (Maybe will fix with HeliPort)
 
  
 </details>
