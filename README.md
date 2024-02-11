@@ -57,7 +57,7 @@ Hardware | Model
 --- |:--:
 ![processor](https://i.imgur.com/BzXF1mf.png) | Core i5 (11th Gen) 1135G7 4 Cores/8 Threads@2,42Ghz
 ![igpu](https://i.imgur.com/HS92HLo.png)| Xe Graphics GT2 1,2GB VRAM @1,4GHz (Not supported)
-![audio](https://i.imgur.com/Xpsn2zb.png) | Tiger-Lake Smart Sound I2C/Everest ES8316(?) (Not supported)
+![audio](https://i.imgur.com/Xpsn2zb.png) | Tiger-Lake Smart Sound I2C/Everest ESSX8336 (Not supported)
 ![wlan](https://i.imgur.com/9eDLwo9.png) | 6 Wi-Fi/Bluetooth AX201 (Supported)
 ![lpddr4](https://i.imgur.com/1VtslzT.png) | Samsung 8GB(4x2) LPDDR4@2667Mhz (in-build)
 ![nvme](https://i.imgur.com/J9Q96yY.png) | Phison 311CD0 NVMe 512GB (TLC PS5013 Controller)
