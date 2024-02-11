@@ -12,9 +12,9 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 [![MacOS BigSur](https://i.imgur.com/lhFb24x.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/BigSur)
 
-**Status:** 🏗️ In-process (under construction) 💻
+**Status:** 👨🏾‍🏭 In development (test with [First Release EFI](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/releases) )💻
 
-**Notes for future:** Trying later, for now, I'm running Monterey. 
+**Notes for future:** Try fix USB 3.1 ports; audio fix later. 
 
 ---
 
