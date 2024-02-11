@@ -8,7 +8,7 @@
 
 Hardware | Model
 --- |:--:
-![processor](https://i.imgur.com/BzXF1mf.png) | Intel Core i5 1135G7@2.40 GHz(4 cores, 8 threads)
+![processor](https://i.imgur.com/BzXF1mf.png) | Intel Core i5 1135G7 4 Cores/8 Threads@2,42Ghz
 ![igpu](https://i.imgur.com/HS92HLo.png)| Intel Xe Graphics 1GB VRAM @1,4GHz (Not supported)
 ![audio](https://i.imgur.com/Xpsn2zb.png) | TigerLake Smart Sound I2C/Everest ES8316(?) (Not supported)
 ![wlan](https://i.imgur.com/9eDLwo9.png) | Intel 6 Wi-Fi/Bluetooth AX201
