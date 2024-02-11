@@ -55,8 +55,8 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 Hardware | Model
 --- |:--:
-![processor](https://i.imgur.com/BzXF1mf.png) | Intel Core i5 1135G7
-![igpu](https://i.imgur.com/HS92HLo.png)| Intel Xe Graphics 1GB VRAM @1,4GHz (Not supported)
+![processor](https://i.imgur.com/BzXF1mf.png) | Intel Core i5 1135G7 4 Cores/8 Threads@2,42Ghz
+![igpu](https://i.imgur.com/HS92HLo.png)| Xe Graphics GT2 1,2GB VRAM @1,4GHz (Not supported)
 ![audio](https://i.imgur.com/Xpsn2zb.png) | TigerLake Smart Sound I2C/Everest ES8316(?) (Not supported)
 ![wlan](https://i.imgur.com/9eDLwo9.png) | Intel 6 Wi-Fi/Bluetooth AX201 (Only Wi-Fi might work)
 ![lpddr4](https://i.imgur.com/1VtslzT.png) | Samsung 4GB(x2) @2667Mhz (in-build)
