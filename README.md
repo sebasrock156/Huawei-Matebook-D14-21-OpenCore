@@ -19,14 +19,13 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 ---
 
 
-
 **More info of MacOS Monterey:**
 
 [![MacOS Monterey](https://i.imgur.com/hVAkcmx.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Monterey)
 
 **Status:** 👨🏾‍🏭 In development (test with [First Release EFI](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/releases) )💻
 
-**Notes for future:** Try fix Audio Card/Microphone, try fix USB 3.1 ports. 
+**Notes for future:** Try fix USB 3.1 ports; audio fix later. 
 
 ---
 
@@ -46,7 +45,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 [![MacOS Sonoma](https://i.imgur.com/enkO7nT.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/tree/Sonoma)
 
-**Status:** 🌑 Next version to port if works on Ventura 💻
+**Status:** 🚧 Tested, but abbandoned for now (EFI boots to OC Menu, but hangs in installation)💻
 
 
 ---
