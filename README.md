@@ -33,8 +33,6 @@ Hardware | Model
 
 - Screen ✅ (1080x1920)
 
-- Wi-Fi ✅ (Maybe will fix with HeliPort)
-
  
 </details>
 
@@ -43,6 +41,8 @@ Hardware | Model
 
 ---
 <details>
+
+- Wi-Fi ✅❌ (Maybe will fix with HeliPort)
  
 - USB Ports ✅❌ (2.0 and Type-C ports works perfect; 3.1 ports doesn't work for now).
 - 
