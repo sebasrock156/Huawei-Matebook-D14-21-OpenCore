@@ -1,4 +1,4 @@
-# Huawei Matebook D14 (2021) Hackintosh Sonoma with OpenCore
+# [ALPHA-WIP] Huawei Matebook D14 (2021) Hackintosh Sonoma with OpenCore
 
 ![img](https://i.imgur.com/Eur6M5c.png)
 
