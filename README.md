@@ -1,8 +1,8 @@
 # [PRE-ALPHA WIP] Huawei Matebook D14 (2021) Hackintosh Ventura (13.0 - 13.4) with OpenCore
 
-![img](https://i.imgur.com/eYKdenu.png)
+![img](https://i.imgur.com/MEjR3Gt.png)
 
-⚠️**WARNING**: For now, Post-Installation works wreird ⚠️
+⚠️**WARNING**: For now, Post-Installation works weird ⚠️
 
 ---
 
