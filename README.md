@@ -22,7 +22,7 @@ Hardware | Model
 
 - Opencore 0.9.3 ✅ 
 
-- Installer Boot ✅ (installation is a less of 20 minutes with NVMe/28 minutes with external SATA SSD)
+- Installer Boot ✅ (Installation on: NVMe SSD: ~20/25 minutes; SATA3 SSD: ~28/30 minutes)
 
 - System Boot ✅
 
