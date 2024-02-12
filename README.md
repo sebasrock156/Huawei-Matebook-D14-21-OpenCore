@@ -20,19 +20,20 @@ Hardware | Model
 ---
 <details>
 
-- Opencore 0.9.3 ❌ (I will try updating the bootloader for see if works or not).
+- Opencore 0.9.3 ✅ (OC starts, but MacOS Sonoma Image won't boot).
 
-- Installer Boot ❌ (installation is a less of 20 minutes with NVMe/28 minutes with external SATA SSD)
+- Installer Boot ❌ (IDK for the moment.
+NVMe 35 minutes; SSD 45/50 minutes, I guess).
 
-- System Boot ❌
+- System Boot ❌ (Not for now).
 
-- Camera ✅ (works perfectly)
+- Camera ✅ (works perfectly 🙃)
 
-- Battery charging and stats ✅
+- Battery charging and stats ✅ (It's recognize)
 
 - Screen ✅ (1080x1920)
 
-- Wi-Fi ✅❌ (Using heliport)
+- Wi-Fi ✅❌ (Maybe with HeliPort)
 
  
 </details>
