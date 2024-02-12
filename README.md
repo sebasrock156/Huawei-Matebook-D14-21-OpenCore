@@ -27,6 +27,8 @@ Hardware | Model
 
 - System Boot ✅
 
+- USB Ports ✅ (Now all works).
+
 - Camera ✅ (works perfectly)
 
 - Battery charging and stats ✅
@@ -44,8 +46,6 @@ Hardware | Model
 
 - Wi-Fi ✅❌ (Maybe will fix with HeliPort)
  
-- USB Ports ✅❌ (2.0 and Type-C ports works perfect; 3.1 ports doesn't work for now).
-- 
 - VoodooPS2Controller ✅❌ (Works, but touchpad is broken, after boot seems work but stops inmediatelly).
 
 - Bluetooth ✅❌ (Partially works, if you're using headphones/airbuds, audio might have some cuts).
