@@ -2,8 +2,6 @@
 
 ![img](https://i.imgur.com/31RLUxv.png)
 
-⚠️**WARNING**: For install and test it, USE an USB 2.0 HUB beside from USB Type-C charging port, 3.1 USB ports doesn't work ⚠️
-
 ---
 
 Hardware | Model
@@ -29,6 +27,8 @@ Hardware | Model
 
 - USB Ports ✅ (Now all works).
 
+- VoodooPS2Controller ✅ (Works).
+
 - Camera ✅ (works perfectly)
 
 - Battery charging and stats ✅
@@ -46,7 +46,7 @@ Hardware | Model
 
 - Wi-Fi ✅❌ (Maybe will fix with HeliPort)
  
-- VoodooPS2Controller ✅❌ (Works, but touchpad is broken, after boot seems work but stops inmediatelly).
+- VoodooI2CHID ✅❌ (Might be work, but touchpad freeze after 5 secs to boot).
 
 - Bluetooth ✅❌ (Partially works, if you're using headphones/airbuds, audio might have some cuts).
 
@@ -59,17 +59,17 @@ Hardware | Model
 <details>
  
  
-- Touchpad ❌ (MacOS doesn't recognize the Huawei sensors correctly).
+- Touchpad ❌ (MacOS doesn't recognize the GXTP7863 sensor correctly).
 
-- Audio Card ❌ (It's recognized but isn't enabled)
+- Audio Card ❌ (It's recognized as Tiger-Lake SST/Comet-Lake SST, but isn't enabled)
 
-- Microphone ❌ (It's recognized but isn't enabled)
+- Microphone ❌ (It is not recognized)
 
 - HDMI ❌ (Doesn't work without 3D Acceleration)
 
 - Screen Backlit ❌ (Doesn't work without 3D Acceleration)
 
-- Fingerprint Scanner ❌ (Don't exist some Goodix kext for MacOS)
+- Fingerprint Scanner ❌ (Don't exist some Goodix kext for MacOS; use NoTouchID kext for disable it)
 
 </details>
 
