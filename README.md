@@ -26,6 +26,10 @@ Hardware | Model
 
 - System Boot ✅
 
+- USB Ports ✅ (Now all works).
+
+- VoodooPS2Controller ✅ (Works).
+
 - Camera ✅ (works perfectly)
 
 - Battery charging and stats ✅
@@ -33,6 +37,8 @@ Hardware | Model
 - Screen ✅ (1080x1920)
 
 - Wi-Fi ✅ (altrough is some slow to connect)
+  
+- Bluetooth ✅ (Sound devices have some cuts, mouses/keyboards works pretty well, Android devices works/iOS devices are detected but AirDrop is broken).
 
  
 </details>
@@ -42,12 +48,8 @@ Hardware | Model
 
 ---
 <details>
- 
-- USB Ports ✅❌ (2.0 and Type-C ports works perfect; 3.1 ports doesn't work for now).
   
-- VoodooPS2Controller ✅❌ (Works, but touchpad is broken, after boot seems work but stops inmediatelly).
-
-- Bluetooth ✅❌ (Partially works, if you're using headphones/airbuds, audio might have some cuts).
+- VoodooI2CHID ✅❌ (Might be work, but touchpad freeze after 5 secs to boot).
 
 </details>
 
@@ -58,17 +60,17 @@ Hardware | Model
 <details>
  
  
-- Touchpad ❌ (MacOS doesn't recognize the Huawei sensors correctly).
+- Touchpad ❌ (MacOS doesn't recognize the GXTP7863 sensor correctly).
 
-- Audio Card ❌ (It's recognized but isn't enabled)
+- Audio Card ❌ (It's recognized as Tiger-Lake SST/Comet-Lake SST, but isn't enabled)
 
-- Microphone ❌ (It's recognized but isn't enabled)
+- Microphone ❌ (It is not recognized)
 
 - HDMI ❌ (Doesn't work without 3D Acceleration)
 
 - Screen Backlit ❌ (Doesn't work without 3D Acceleration)
 
-- Fingerprint Scanner ❌ (Don't exist some Goodix kext for MacOS)
+- Fingerprint Scanner ❌ (Don't exist some Goodix kext for MacOS; use NoTouchID kext for disable it)
 
 </details>
 
