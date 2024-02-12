@@ -14,7 +14,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 **Status:** 👨🏾‍🏭 In development (test with [First Release EFI](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/releases) )💻
 
-**Notes for future:** Try fix USB 3.1 ports; audio fix later. 
+**To do:** Try fix USB 3.1 ports, fix Wi-Fi with HeliPort, fix Touchpad.
 
 ---
 
@@ -25,7 +25,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 **Status:** 👨🏾‍🏭 In development (test with [First Release EFI](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/releases) )💻
 
-**Notes for future:** Try fix USB 3.1 ports; audio fix later. 
+**To do:** Try fix USB 3.1 ports, see if audio is possible to fix, fix Touchpad (x2)
 
 ---
 
@@ -36,7 +36,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 **Status:** 🚧 In-process (under construction) 💻
 
-**Notes for future:** If work in Monterey, might be works on Ventura... 
+**To do:** Fix USB 3.1 ports, fix Wi-Fi, fix audio (if is possible), fix Touchpad (x3).
 
 ---
 
