@@ -2,7 +2,7 @@
 
 ![img](https://i.imgur.com/eYKdenu.png)
 
-⚠️**WARNING**: For now, Post-Installation works rare ⚠️
+⚠️**WARNING**: For now, Post-Installation works wreird ⚠️
 
 ---
 
