@@ -35,6 +35,10 @@ NVMe 35 minutes; SSD 45/50 minutes, I guess).
 
 - Wi-Fi ✅❌ (Maybe with HeliPort)
 
+- VoodooPS2Controller/Keyboard ✅ (Works).
+  
+- VoodooI2CHID/Touchpad ✅ (Recognize the GXTP7863 sensor weird, works but skips some screen pixels).
+
  
 </details>
 
@@ -57,9 +61,6 @@ NVMe 35 minutes; SSD 45/50 minutes, I guess).
 ---
 
 <details>
- 
- 
-- Touchpad ❌ (MacOS doesn't recognize the Huawei sensors correctly).
 
 - Audio Card ❌ (It's recognized but isn't enabled)
 
