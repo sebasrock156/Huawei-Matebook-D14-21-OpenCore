@@ -28,7 +28,9 @@ Hardware | Model
 
 - USB Ports ✅ (Now all works).
 
-- VoodooPS2Controller ✅ (Works).
+- VoodooPS2Controller/Keyboard ✅ (Works).
+  
+- VoodooI2CHID/Touchpad ✅ (Recognize the GXTP7863 sensor weird, works but skips some screen pixels).
 
 - Camera ✅ (works perfectly)
 
@@ -41,16 +43,6 @@ Hardware | Model
 - Bluetooth ✅ (Sound devices have some cuts, mouses/keyboards works pretty well, Android devices works/iOS devices are detected but AirDrop is broken).
 
  
-</details>
-
-
-### Partially Works:
-
----
-<details>
-  
-- VoodooI2CHID ✅❌ (Might be work, but touchpad freeze after 5 secs to boot).
-
 </details>
 
 
