@@ -14,7 +14,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 **Status:** 👨🏾‍🏭 In development (test with [First Release EFI](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/releases) )💻
 
-**To do:** Try fix Wi-Fi with HeliPort.
+**To do:** Try fix Wi-Fi with HeliPort, fix 3D Acceleration when is possible.
 
 ---
 
@@ -25,7 +25,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 **Status:** 👨🏾‍🏭 In development (test with [Second Release EFI](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/releases) )💻
 
-**To do:** See if audio is possible to fix.
+**To do:** Fix 3D Acceleration when is possible.
 
 ---
 
@@ -36,7 +36,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 **Status:** 👨🏾‍🏭 In development (test with [Second Release EFI](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore/releases) )💻
 
-**To do:** Fix audio (if is possible).
+**To do:** Fix 3D Acceleration when is possible.
 
 ---
 
@@ -56,9 +56,9 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 Hardware | Model
 --- |:--:
 ![processor](https://i.imgur.com/BzXF1mf.png) | Core i5 (11th Gen) 1135G7 4 Cores/8 Threads@2,42Ghz
-![igpu](https://i.imgur.com/HS92HLo.png)| Xe Graphics GT2 1,2GB VRAM @1,4GHz (Not supported)
-![audio](https://i.imgur.com/Xpsn2zb.png) | Tiger-Lake Smart Sound I2C/Everest ESSX8336 (Not supported)
-![wlan](https://i.imgur.com/9eDLwo9.png) | 6 Wi-Fi/Bluetooth AX201 (Supported)
+![igpu](https://i.imgur.com/HS92HLo.png)| Xe Graphics GT2 1,2GB VRAM @1,4GHz (Not supported officially)
+![audio](https://i.imgur.com/Xpsn2zb.png) | Everest ESSX8336 (Usually, Apple doesn't support I2C Audio Cards)
+![wlan](https://i.imgur.com/9eDLwo9.png) | 6 Wi-Fi/Bluetooth AX201 (Supported with AirportItlwm)
 ![lpddr4](https://i.imgur.com/1VtslzT.png) | Samsung 8GB(4x2) LPDDR4@2667Mhz (in-build)
 ![nvme](https://i.imgur.com/J9Q96yY.png) | Phison 311CD0 NVMe 512GB (TLC PS5013 Controller)
 Fingerprint | Goodix USB FP 5125 (Not support)
