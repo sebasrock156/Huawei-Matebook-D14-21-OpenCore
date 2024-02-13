@@ -27,7 +27,9 @@ Hardware | Model
 
 - USB Ports ✅ (Now all works).
 
-- VoodooPS2Controller ✅ (Works).
+- VoodooPS2Controller/Keyboard ✅ (Works).
+  
+- VoodooI2CHID/Touchpad ✅ (Recognize the GXTP7863 sensor weird, works but skips some screen pixels).
 
 - Camera ✅ (works perfectly)
 
@@ -45,8 +47,6 @@ Hardware | Model
 <details>
 
 - Wi-Fi ✅❌ (Maybe will fix with HeliPort)
- 
-- VoodooI2CHID ✅❌ (Might be work, but touchpad freeze after 5 secs to boot).
 
 - Bluetooth ✅❌ (Partially works, if you're using headphones/airbuds, audio might have some cuts).
 
@@ -57,9 +57,6 @@ Hardware | Model
 ---
 
 <details>
- 
- 
-- Touchpad ❌ (MacOS doesn't recognize the GXTP7863 sensor correctly).
 
 - Audio Card ❌ (It's recognized as Tiger-Lake SST/Comet-Lake SST, but isn't enabled)
 
