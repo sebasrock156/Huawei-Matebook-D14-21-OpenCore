@@ -50,9 +50,6 @@ Hardware | Model
 ---
 
 <details>
- 
- 
-- Touchpad ❌ (MacOS doesn't recognize the GXTP7863 sensor correctly).
 
 - Audio Card ❌ (It's recognized as Tiger-Lake SST/Comet-Lake SST, but isn't enabled)
 
