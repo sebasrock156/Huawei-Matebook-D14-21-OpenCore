@@ -2,7 +2,8 @@
 
 ![progress](https://img.shields.io/badge/Progress-Under_development-red.svg)
 ![installation](https://img.shields.io/badge/installation-working-green.svg)
-[![Acer OSX](https://img.shields.io/badge/AcerHackintosh-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
+[![LegacyAcer OSX](https://img.shields.io/badge/LegacyAcerHackintosh-available_here-violet.svg)](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh)
+[![EFIAcer OSX](https://img.shields.io/badge/EFIAcerHackintosh-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
 [![Asus OSX](https://img.shields.io/badge/oldAMDOSX-alpha_here-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
 
 **⚠ WARNING ⚠:  I'm working with another laptop for now, so, this project is stopped** 
