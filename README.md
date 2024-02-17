@@ -5,6 +5,8 @@
 [![Acer OSX](https://img.shields.io/badge/AcerHackintosh-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
 [![Asus OSX](https://img.shields.io/badge/oldAMDOSX-alpha_here-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
 
+⚠ I'm working with another laptop for now, so, this project is stopped ⚠
+
 
 This is a "big" project to bring MacOS OSes for these laptops with OpenCore Bootloader, for more information, click on "More info of **MacOS Version** below:
 
