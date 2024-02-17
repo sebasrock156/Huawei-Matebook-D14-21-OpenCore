@@ -55,6 +55,8 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 Hardware | Model
 --- |:--:
+Motherboard | BOD-WXX9 (Huawei)
+BIOS | Insyde H20 v2.29 (by Huawei)
 ![processor](https://i.imgur.com/BzXF1mf.png) | Core i5 (11th Gen) 1135G7 4 Cores/8 Threads@2,42Ghz
 ![igpu](https://i.imgur.com/HS92HLo.png)| Xe Graphics GT2 1,2GB VRAM @1,4GHz (Not supported officially)
 ![audio](https://i.imgur.com/Xpsn2zb.png) | Everest ESSX8336 (Usually, Apple doesn't support I2C Audio Cards)
