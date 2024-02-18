@@ -58,7 +58,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 Hardware | Model
 --- |:--:
-![motherboard](https://i.imgur.com/Bw8TbPW.png) | Huawei BOD-WXX9 (Tiger Lake-U)
+![motherboard](https://i.imgur.com/1bfb9L6.png) | Huawei BOD-WXX9 (Tiger Lake-U)
 ![bios](https://i.imgur.com/98P6ntE.png) | Insyde H20 v2.29 (by Huawei)
 ![processor](https://i.imgur.com/BzXF1mf.png) | Core i5 (11th Gen) 1135G7 4 Cores/8 Threads@2,42Ghz
 ![igpu](https://i.imgur.com/HS92HLo.png)| Xe Graphics GT2 1,2GB VRAM @1,4GHz (Not supported officially)
