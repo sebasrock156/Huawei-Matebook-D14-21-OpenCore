@@ -61,7 +61,7 @@ Hardware | Model
 ![motherboard](https://i.imgur.com/1bfb9L6.png) | Huawei BOD-WXX9 (Tiger Lake-U)
 ![bios](https://i.imgur.com/98P6ntE.png) | Insyde H20 v2.29 (by Huawei)
 ![processor](https://i.imgur.com/BzXF1mf.png) | Core i5 (11th Gen) 1135G7 4 Cores/8 Threads@2,42Ghz
-![igpu](https://i.imgur.com/HS92HLo.png)| Xe Graphics GT2 1,2GB VRAM @1,4GHz (Not supported officially)
+![igpu](https://i.imgur.com/HS92HLo.png)| Xe Graphics GT2 (UHD 730) 1,2GB VRAM @1,4GHz (Not supported officially)
 ![audio](https://i.imgur.com/Xpsn2zb.png) | Everest ESSX8336 (Usually, Apple doesn't support I2C Audio Cards)
 ![wlan](https://i.imgur.com/9eDLwo9.png) | 6 Wi-Fi/Bluetooth AX201 (Supported with AirportItlwm)
 ![lpddr4](https://i.imgur.com/1VtslzT.png) | Samsung 8GB(4x2) LPDDR4@2667Mhz (in-build)
