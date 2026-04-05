@@ -69,8 +69,3 @@ Hardware | Model
 Fingerprint | Goodix USB FP 5125 (Not support)
 Webcam | OmniVision OV9734 HD Webcam (Keyboard in-build)
 ---
-
-
-## Misc:
-This is based on Olarila RAW MacOS Images.
-In future, I'll try use Opencore for newer versions.
