@@ -16,6 +16,17 @@ Hardware | Model
 ![nvme](https://i.imgur.com/J9Q96yY.png) | 311CD0 NVMe 512GB (TLC PS5013 Controller)
 ---
 
+### Fix GPU (Testing):
+This is provisional; I haven’t tested it yet, try to follow the instructions on [WhateverXe](https://github.com/b00t0x/WhateverXe) and [WhateverXe-Graphics](https://github.com/b00t0x/WhateverXe-Graphics)
+
+<details>
+  
+  ![XeWorks](https://i.imgur.com/F7TBrYR.jpeg)
+  
+</details>
+
+---
+
 ### Works:
 ---
 <details>
@@ -31,6 +42,8 @@ Hardware | Model
 - VoodooPS2Controller/Keyboard ✅ (Works).
   
 - VoodooI2CHID/Touchpad ✅ (Recognize the GXTP7863 sensor weird, works but skips some screen pixels).
+
+- 3D Acceleration ✅❌ ((?) Try to fix the Device ID on DeviceProperties and use WhateverXe *links above*) 
 
 - Camera ✅ (works perfectly)
 
@@ -57,7 +70,7 @@ Hardware | Model
 
 - HDMI ❌ (Doesn't work without 3D Acceleration)
 
-- Screen Backlit ❌ (Doesn't work without 3D Acceleration)
+- Screen Backlit ✅❌ (Doesn't work without 3D Acceleration/ Maybe works with WhateverXe(?))
 
 - Fingerprint Scanner ❌ (Don't exist some Goodix kext for MacOS; use NoTouchID kext for disable it)
 
